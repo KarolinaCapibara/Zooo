@@ -1,0 +1,153 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #121212;
+}
+
+header img {
+    width: 100px;
+    height: 100px;
+}
+
+header {
+    font-size: 17px;
+    text-align: center;
+}
+
+header h1 {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    font-size: 34px;
+}
+
+header h2{
+    background-color: #D9AF32;
+    color: #ffffff;
+    border-radius: 10px;
+    font-size: 15px;
+     border: 1px solid #D9AF32 ;
+}
+
+nav {
+    margin: 10px 0px;
+   text-align: center;
+   padding: 10px;
+   padding-right: 28px; 
+    text-decoration: none;
+    font-size: 15px;
+    padding: 5px 25px;
+}
+
+nav a {
+    margin: 10px 0px;
+   text-align: center;
+   background-color: #0D0000;
+   padding: 10px;
+   padding-right: 28px; 
+    text-decoration: none;
+    font-size: 15px;
+    padding: 5px 25px;
+    color: rgb(239, 239, 239);
+    border-radius: 10px;
+}
+
+nav img {
+    width: 500px;
+    height: 400px;
+    border: 1px solid #D9AF32;
+}
+
+main p {
+    font-family: cursive;
+    margin: 5px 0px;
+   text-align: center;
+   background-color: #000000;
+   padding: 5px;
+   padding-right: 5px; 
+    text-decoration: none;
+    font-size: 15px;
+    padding: 4px 15px;
+    color: #D9AF32;
+    border-radius: 5px;
+    border: 1px solid #D9AF32 ;
+}
+
+main img {
+    width: 15%;
+    height: 15%;
+}
+
+main a {
+    margin: 2x 0px;
+   text-align: center;
+   background-color: #D9AF32;
+   padding: 2px;
+   padding-right: 2px; 
+    text-decoration: none;
+    font-size: 15px;
+    padding: 2px 15px;
+    color: rgb(239, 239, 239);
+    border-radius: 10px;
+}
+
+main {
+    background-color: #ffffff;
+}
+
+main h3 {
+     margin: 5px 0px;
+   text-align: center;
+   background-color: #D9AF32;
+   padding: 5px;
+   padding-right: 5px; 
+    text-decoration: none;
+    font-size: 15px;
+    padding: 4px 15px;
+    color: rgb(239, 239, 239);
+    border-radius: 5px;
+    border: 1px solid #D9AF32 ;
+}
+
+.image-container{
+    background-color: #121212;
+}
+
+.image-container img{
+    width: 700px;
+    height: 500px;
+    border: 1px solid #D9AF32 ;
+}
+
+footer {
+   margin: 5px 0px;
+   text-align: center;
+   background-color: #D9AF32;
+   padding: 5px;
+   padding-right: 5px; 
+    text-decoration: none;
+    font-size: 10px;
+    padding: 4px 15px;
+    color: rgb(239, 239, 239);
+    border-radius: 5px;
+    border: 1px solid #D9AF32 ;
+}
+
+footer a {
+    text-align: center;
+   background-color: #121212;
+   padding: 5px;
+   padding-right: 5px; 
+    text-decoration: none;
+    font-size: 10px;
+    padding: 4px 15px;
+    color: rgb(239, 239, 239);
+    border-radius: 5px;
+}
+
+.iframe-container{
+background-color:#121212 ;
+}
+
+
+
